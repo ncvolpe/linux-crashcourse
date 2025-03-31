@@ -9,3 +9,6 @@ You should see the current files and sub-directories in your working directory!
 
 Are you sure this is every file in the working directory? (HINT: IT'S NOT!!)
 Task: Figure out how to see these hidden files
+
+
+Move on to [Navigating Your Directories](/File%20Systems/Beginner/navigating/README.md)
